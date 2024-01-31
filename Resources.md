@@ -15,6 +15,7 @@ Please read [contribution guidelines](contributing.md), thank you!
 - [AI / Machine Learning / Data Science](#ai--machine-learning--data-science)
 - [Miscellaneous](#miscellaneous)
 - [Articles](#articles)
+- [College courses](#college)
 
 ## Programming Language
 
@@ -56,6 +57,13 @@ Please read [contribution guidelines](contributing.md), thank you!
 - [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Roadmap to becoming a data scientist.
 - [Data scientist Roadmap 2](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science.
 - [NLP Roadmap](https://github.com/graykode/nlp-roadmap) - Roadmap for Natural Language Processing learning in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://github.com/graykode/nlp-roadmap).
+
+## College Coursework
+
+- [First Year](https://drive.google.com/drive/folders/1TTjSSShjK5nrUURnSIVOK1wnO-CBCp7R) - Roadmap and notes for first year college kids.
+- [Second Year](https://drive.google.com/drive/folders/1c2gZ8TJ53P3ecNETMB403lTueQY5pEHU) - Roadmap and notes for second year college kids.
+- [Third Year](https://drive.google.com/drive/folders/1jUHgBPZdN5V5Am6gEHpHNTc4XWIQgC_W) - Roadmap and notes for third year college kids.
+- [Fourth Year]() - Roadmap and notes for fourth year college kids.
 
 ## Miscellaneous
 
