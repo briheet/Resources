@@ -4,7 +4,7 @@ A curated list of roadmaps, mostly about software development, which give you a 
 
 Contributions welcome.
 Add links through pull requests or create an issue to start a discussion.
-Please read [contribution guidelines](contributing.md), thank you!
+Please read [contribution guidelines](contribute.md), thank you!
 
 ## Contents
 
