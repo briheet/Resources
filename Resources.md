@@ -1,4 +1,4 @@
-# Roadmaps [![Vibe](https://awesome.re/badge.svg)](https://awesome.re) [![Building](https://travis-ci.org/liuchong/awesome-roadmaps.svg?branch=master)](https://travis-ci.org/liuchong/awesome-roadmaps)
+# Vibe Roadmaps
 
 A curated list of roadmaps, mostly about software development, which give you a clear route to improve your knowledge or skills.
 
